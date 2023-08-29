@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=nMNSC_
+Comment= nMNSC P2P Cryptocurrency
+Comment[fr]= nMNSC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= nMNSC, eşten eşe kriptografik sanal para birimi
+Exec=nmnsc-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=nmnsc-qt
