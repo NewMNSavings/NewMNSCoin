@@ -36,7 +36,16 @@ NewMNSCoin wallet repository
   <td class=xl6317252 width=107 style='width:81pt'>Staker Reward</td>
  </tr>
  <tr height=21 style='mso-height-source:userset;height:15.75pt'>
-  <td height=21 class=xl6417252 style='height:15.75pt'>1-500</td>
+  <td height=21 class=xl6417252 style='height:15.75pt'>1</td>
+  <td class=xl6517252>-</td>
+  <td class=xl6517252>35000001</td>
+  <td class=xl6617252>-</td>
+  <td class=xl6617252>-</td>
+  <td class=xl6717252></td>
+  <td class=xl6553517252></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl6417252 style='height:15.75pt'>2-500</td>
   <td class=xl6517252>-</td>
   <td class=xl6517252>1</td>
   <td class=xl6617252>-</td>
