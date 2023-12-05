@@ -13,7 +13,7 @@ NewMNSCoin wallet repository
 • Ports: 14258 (p2p) / 14259 (rpc)</br></br>
 
 • Website https://nmnsc.com/</br>
-• Explorer http://nmnsc.com:3001</br>
+• Explorer http://explorer.nmnsc.com</br>
 
 ### Rewards Breakdown
 <table border=0 cellpadding=0 cellspacing=0 width=701 class=xl6553517252
